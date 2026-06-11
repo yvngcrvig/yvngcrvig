@@ -1,16 +1,14 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**yvngcrvig/yvngcrvig** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#  About me
 
-Here are some ideas to get you started:
+### OSINT • Cybersecurity • Full-Stack Development • Automation
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+##  About Me
+
+I build tools that connect **security, automation, OSINT, and clean UI design**.
+
+Currently focused on:
+
+*  Authorized OSINT & exposure intelligence
+*  Cybersecurity dashboards and investigation tools
